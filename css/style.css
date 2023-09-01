@@ -653,7 +653,7 @@ ul {
   }
   .dashboard .reminders .reminder-row{
     border-bottom: 1px solid var(--blue-color);
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     border-width: 60%;
   }
   .dashboard .reminders .green{
@@ -663,7 +663,7 @@ ul {
     border-color: var(--orange-color);
   }
   .dashboard .reminders .red{
-    border-color: var(--red-color);
+    border: none;
   }
 }
 .dashboard .latest-post .user{
