@@ -24,6 +24,7 @@ body {
 }
 ::-webkit-scrollbar {
   background-color: var(--lite-gray-color);
+  width: 15px;
 }
 ::-webkit-scrollbar-thumb {
   background-color: var(--blue-color);
