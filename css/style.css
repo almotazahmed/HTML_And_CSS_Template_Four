@@ -22,6 +22,12 @@ html {
 body {
   font-family: "Open Sans", sans-serif;
 }
+::-webkit-scrollbar {
+  background-color: var(--lite-gray-color);
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--blue-color);
+}
 a {
   text-decoration: none;
 }
